@@ -1,2 +1,2 @@
 # MilhoTechBD
-criado
+Repositório para banco de daods do projeto de pi
